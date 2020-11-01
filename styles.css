@@ -1,0 +1,125 @@
+* {
+    margin:  0;
+    padding: 0;
+  }
+.section-one {
+    width: 100%;
+    background-size: contain;
+    background-image: url(img/banner.png);
+    padding: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+.section-two {
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.section-three {
+    width: 100%;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+#profile {
+    width: 150px;
+    border-radius: 50%;
+}
+body {
+    background-color: #fff;
+background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+/* Este es el fondo principal de la página */
+  }
+ 
+/* ===Projects */
+
+ .projects{
+    width: 85%;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+
+ .projects .title{
+    font-size: 3em;
+    color: #444;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.projects .description{
+    font-weight: 300;
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.projects .project-description{
+    width: 100%;
+    padding: 20px;
+    background: rgb(235,235,235);
+    margin-bottom: 50px;
+    text-align: center;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+    .project-description h2{
+        font-size: 1.2em;
+        font-weight: 700;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .project-description p{
+        font-weight: 300;
+    }
+
+    .project-description div{
+        background: #224BE1;
+        margin-top: 20px;
+        padding: 15px;
+    }
+
+    .project-description div p{
+        display: inline-block;
+        margin: 0px 20px;
+    }
+    
+    .project-description div p a{
+        color: #fff;
+    }
+
+    .education {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .personal-information {
+        width: 100%;
+        padding: 20px;
+        margin-top: 5%;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+        background-color: #224BE1;
+    }
+
+    .data {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+        background-color: #224BE1;
+    }
+    
+
+ 
+  
