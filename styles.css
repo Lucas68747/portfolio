@@ -53,6 +53,7 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
 
  .projects{
     width: 85%;
+    min-width: 250px;
     max-width: 1200px;
     margin: auto;
     margin-bottom: 200px;
@@ -127,6 +128,8 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
 
     .personal-information {
         width: 100%;
+        min-width: 250px;
+        margin: auto;
         padding: 20px;
         margin-top: 5%;
         text-align: center;
@@ -137,6 +140,8 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
 
     .data {
         width: 100%;
+        min-width: 250px;
+        margin: auto;
         padding: 20px;
         text-align: center;
         font-family: 'Open Sans', sans-serif;
