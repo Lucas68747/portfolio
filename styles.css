@@ -2,6 +2,9 @@
     margin:  0;
     padding: 0;
   }
+
+/* Banner */
+
 .section-one {
     width: 100%;
     background-size: contain;
@@ -11,6 +14,9 @@
     font-family: 'Open Sans', sans-serif;
     color: #fff;
 }
+
+/* Skills and Tools */
+
 .section-two {
     width: 100%;
     padding: 20px;
@@ -18,6 +24,9 @@
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* Project presentation */
+
 .section-three {
     width: 100%;
     padding: 20px;
@@ -25,17 +34,22 @@
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* Profile */
+
 #profile {
     width: 150px;
     border-radius: 50%;
 }
+
+/* Body Style */
+
 body {
     background-color: #fff;
 background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
-/* Este es el fondo principal de la página */
-  }
+}
  
-/* ===Projects */
+/* Projects in order */
 
  .projects{
     width: 85%;
@@ -45,12 +59,17 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
     margin-top: 50px;
 }
 
+/* Projects title */
+
  .projects .title{
     font-size: 3em;
     color: #444;
     margin-bottom: 20px;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* Projects description */
+
 .projects .description{
     font-weight: 300;
     color: #333;
@@ -94,12 +113,17 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
         color: #fff;
     }
 
+/* Certificates */
+
     .education {
         width: 100%;
         padding: 20px;
         text-align: center;
         font-family: 'Open Sans', sans-serif;
     }
+
+/* Contact Section */
+
 
     .personal-information {
         width: 100%;
